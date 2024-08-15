@@ -537,6 +537,7 @@ textarea {
         }
     }
 
+
     #navbar {
         position: fixed;
         margin: 0;
@@ -544,3 +545,5 @@ textarea {
         width: 0;
         height: 0;
     }
+
+   
